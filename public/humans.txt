@@ -1,0 +1,11 @@
+/* TEAM */
+Company: Shandong Weike International Trade Co., Ltd.
+Brand: Weike Peptides / Weike Bio
+Location: Building B5, Yin Feng Industrial Park, High-Tech Zone, Jinan City, Shandong Province, China
+Contact: info@weike.com
+Phone / WhatsApp: +86 15866781826
+
+/* SITE */
+Standards: semantic HTML, JSON-LD, mobile-first CSS
+Language: English
+Do not use: human or veterinary use, medical advice, dosing instructions

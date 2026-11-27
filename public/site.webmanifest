@@ -1,0 +1,21 @@
+{
+  "name": "Weike Peptides \u2014 Research Reference",
+  "short_name": "Weike Peptides",
+  "description": "Peptide encyclopedia, comparator and reconstitution calculator for laboratory research.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5F6F1",
+  "theme_color": "#0B5B60",
+  "icons": [
+    {
+      "src": "/assets/img/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
