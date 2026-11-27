@@ -1,11 +1,11 @@
 {
-  "name": "Weike Peptides \u2014 Research Reference",
-  "short_name": "Weike Peptides",
-  "description": "Peptide encyclopedia, comparator and reconstitution calculator for laboratory research.",
+  "name": "Weike Research Register",
+  "short_name": "Weike Register",
+  "description": "Peptide identity, pack schedules and lot-file notes for laboratory procurement.",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#F5F6F1",
-  "theme_color": "#0B5B60",
+  "background_color": "#F1EDE4",
+  "theme_color": "#A33B2B",
   "icons": [
     {
       "src": "/assets/img/icon-192.png",

@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="Weike Peptides mark">
-  <rect width="48" height="48" rx="14" fill="#0B5B60"/>
-  <path d="M12 17l6 15 6-9 6 9 6-15" fill="none" stroke="#DFF3EA" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="12" cy="17" r="2.2" fill="#BFE4D5"/><circle cx="24" cy="32" r="2.2" fill="#BFE4D5"/><circle cx="36" cy="17" r="2.2" fill="#BFE4D5"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="Weike Research Register">
+  <rect width="48" height="48" fill="#141618"/>
+  <rect x="0" y="0" width="9" height="48" fill="#A33B2B"/>
+  <path d="M14 11h7l3.2 10.2L27.4 11h7L28 26l6.6 11h-7.2L24 28.2 20.6 37h-7.2L20 26 14 11Z" fill="#F1EDE4"/>
 </svg>

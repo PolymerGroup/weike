@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 52" role="img" aria-label="Weike Peptides">
-  <rect x="1" y="4" width="44" height="44" rx="13" fill="#0B5B60"/>
-  <path d="M11 17l6 16 6-10 6 10 6-16" fill="none" stroke="#DFF3EA" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="11" cy="17" r="2.3" fill="#BFE4D5"/><circle cx="23" cy="33" r="2.3" fill="#BFE4D5"/><circle cx="35" cy="17" r="2.3" fill="#BFE4D5"/>
-  <text x="57" y="27" fill="#FFFFFF" font-family="Manrope,Segoe UI,sans-serif" font-size="19" font-weight="800" letter-spacing="-0.6">WEIKE</text>
-  <text x="57" y="40" fill="rgba(255,255,255,.56)" font-family="Manrope,Segoe UI,sans-serif" font-size="7.3" font-weight="700" letter-spacing="2.8">PEPTIDES</text>
-</svg>

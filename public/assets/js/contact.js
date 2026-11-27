@@ -15,7 +15,7 @@
     }
     var message = document.getElementById("message");
     if (message && !message.value) {
-      message.value = "Please quote the product referenced on the page I was viewing.";
+      message.value = "Please quote the material referenced on the page I was viewing.";
     }
   }
 
@@ -39,11 +39,11 @@
       "Email: " + value("contactEmail") + "\n" +
       "WhatsApp / phone: " + value("contactPhone") + "\n" +
       "Destination country: " + value("destination") + "\n" +
-      "Product interest: " + selectedText("productInterest") + "\n" +
-      "Pack format / quantity: " + value("quantity") + "\n" +
+      "Material interest: " + selectedText("productInterest") + "\n" +
+      "Pack schedule / quantity: " + value("quantity") + "\n" +
       "Documentation needed: " + selectedText("documentation") + "\n\n" +
       "Message:\n" + value("message") + "\n\n" +
-      "Please confirm availability, lot-specific COA, lead time and freight. " +
+      "Please confirm availability, lot file (CoA), lead time and freight. " +
       "I confirm this request is for laboratory research use only.\n\n" +
       "Source page: " + window.location.href;
   }

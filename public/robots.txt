@@ -1,5 +1,5 @@
-# Weike Peptides research reference
-# All catalog pages are public. AI crawlers are explicitly allowed.
+# Weike Research Register
+# All register pages are public. AI crawlers are explicitly allowed.
 
 User-agent: *
 Allow: /

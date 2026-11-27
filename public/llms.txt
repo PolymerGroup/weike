@@ -1,6 +1,6 @@
-# Weike Peptides
+# Weike Research Register
 
-> Research-peptide encyclopedia, comparator and reconstitution calculator from Shandong Weike International Trade Co., Ltd. (Jinan, Shandong, China). The catalog covers 111 normalized entries, 252 unique pack formats and 148 source labels. Every product is for laboratory research use only; nothing on the site is medical advice or a dosing instruction.
+> A procurement register for laboratory materials from Shandong Weike International Trade Co., Ltd. (Jinan, Shandong, China). The register covers 111 normalized records, 252 unique pack schedules and 148 source labels. Every material is for laboratory research use only; nothing on the site is medical advice or a dosing instruction.
 
 Canonical domain: https://weike.com
 Company: Shandong Weike International Trade Co., Ltd.
@@ -9,142 +9,142 @@ Phone / WhatsApp: +86 15866781826
 Email: info@weike.com
 Last updated: 2026-11-27
 
-## Primary tools
-- [Peptide comparator](https://weike.com/compare.html): Compare up to four entries by identity, receptor target, structure, half-life, evidence level, pack formats and indicative USD list price.
-- [Reconstitution calculator](https://weike.com/calculator.html): Client-side arithmetic for concentration, amount per 0.1 mL, aliquot volume, U-100 units and approximate aliquots per vial.
-- [Peptide encyclopedia](https://weike.com/peptides/): Filterable index of all entries by research area, target, alias and CAS.
+## Working papers
+- [Comparator](https://weike.com/compare.html): A side-by-side readout for up to four records across identity, target, structure, evidence, pack schedules and indicative USD price.
+- [Preparation ledger](https://weike.com/calculator.html): Client-side arithmetic for concentration, amount per 0.1 mL, aliquot volume, U-100 scale and approximate aliquots per vial.
+- [Compound register](https://weike.com/peptides/): Filterable index of all records by research family, target, alias and CAS.
 
-## Comparison topics
+## Comparison notes
 - [CJC-1295 with DAC vs without DAC](https://weike.com/compare.html#cjc-dac): Same GHRH-receptor target; the DAC is an albumin-binding pharmacokinetic modification.
 - [BPC-157 vs TB-500](https://weike.com/compare.html#bpc-tb): 15-amino-acid peptide versus the 7-amino-acid thymosin beta-4 fragment 17-23; different mechanisms and evidence.
 - [Semaglutide vs tirzepatide vs retatrutide](https://weike.com/compare.html#incretins): GLP-1-selective, GIP/GLP-1 dual and GIP/GLP-1/glucagon triple agonism.
-- [BPC-157 + TB-500 blend vs separate vials](https://weike.com/compare.html#blend): Fixed 1:1 ratio versus independent concentration control.
+- [BPC-157 + TB-500 blend vs separate records](https://weike.com/compare.html#blend): Fixed 1:1 ratio versus independent concentration control.
 
-## Company and policy
-- [About](https://weike.com/about.html): Entity details, operating principles and inquiry process.
-- [Contact](https://weike.com/contact.html): Procurement brief, email and WhatsApp.
-- [Quality and data notes](https://weike.com/quality.html): COA checklist, identity-data method, pricing and certification boundaries.
+## Company and method
+- [Company record](https://weike.com/about.html): Entity details and operating rules.
+- [File a specification](https://weike.com/contact.html): Specification brief, email and WhatsApp.
+- [Method and lot files](https://weike.com/quality.html): Lot-file checklist, identity-data method, pricing and certification boundaries.
 - [Research-use-only notice](https://weike.com/disclaimer.html): Compliance boundary and buyer responsibility.
 - [Privacy](https://weike.com/privacy.html): No marketing cookies; local calculator; hosting logs.
 
-## Encyclopedia entries
-- [5-Amino-1MQ](https://weike.com/peptides/5-amino-1mq.html): CAS not published in source catalog; MW 159.21 Da; Metabolic & GLP-1; 3 pack formats; from $59.35/pack.
-- [Adipotide / FTTP](https://weike.com/peptides/adipotide.html): CAS not published in source catalog; MW 2,557.2 Da; Metabolic & GLP-1; 3 pack formats; from $176.90/pack.
-- [AICAR](https://weike.com/peptides/aicar.html): CAS 2627-69-2; MW 258.23 Da; Metabolic & GLP-1; 2 pack formats; from $125.35/pack.
-- [AOD9604](https://weike.com/peptides/aod9604.html): CAS 221231-10-3; MW 1,815.1 Da; Metabolic & GLP-1; 3 pack formats; from $114.90/pack.
-- [Cagrilintide](https://weike.com/peptides/cagrilintide.html): CAS 1415456-99-3; MW 4,409 Da; Metabolic & GLP-1; 3 pack formats; from $153.20/pack.
-- [Dulaglutide](https://weike.com/peptides/dulaglutide.html): CAS 923950-08-7; protein or complex; no single molecular weight; Metabolic & GLP-1; 2 pack formats; from $383.00/pack.
-- [HGH Fragment 176-191](https://weike.com/peptides/hgh-fragment-176-191.html): CAS 66004-57-7; MW 1,799.1 Da; Metabolic & GLP-1; 6 pack formats; from $88.80/pack.
-- [L-Carnitine](https://weike.com/peptides/l-carnitine.html): CAS 541-15-1; MW 161.2 Da; Metabolic & GLP-1; 6 pack formats; from $64.40/pack.
-- [Liraglutide](https://weike.com/peptides/liraglutide.html): CAS 204656-20-2; MW 3,751 Da; Metabolic & GLP-1; 3 pack formats; from $219.35/pack.
-- [Mazdutide](https://weike.com/peptides/mazdutide.html): CAS 2259884-03-0; MW 4,563.1 Da; Metabolic & GLP-1; 2 pack formats; from $181.05/pack.
-- [MOTS-c](https://weike.com/peptides/mots-c.html): CAS 1627580-64-6; MW 2,174.6 Da; Metabolic & GLP-1; 4 pack formats; from $186.30/pack.
-- [Retatrutide](https://weike.com/peptides/retatrutide.html): CAS 2381089-83-2; MW 4,731.3 Da; Metabolic & GLP-1; 10 pack formats; from $158.45/pack.
-- [Semaglutide](https://weike.com/peptides/semaglutide.html): CAS 910463-68-2; MW 4,114 Da; Metabolic & GLP-1; 7 pack formats; from $62.65/pack.
-- [Survodutide](https://weike.com/peptides/survodutide.html): CAS 2805997-46-8; MW 4,232 Da; Metabolic & GLP-1; 1 pack format; from $553.60/pack.
-- [Tirzepatide](https://weike.com/peptides/tirzepatide.html): CAS 2023788-19-2; MW 4,813.5 Da; Metabolic & GLP-1; 12 pack formats; from $90.55/pack.
-- [ACE-031](https://weike.com/peptides/ace-031.html): CAS not published in source catalog; protein or complex; no single molecular weight; Growth & Secretagogues; 1 pack format; from $97.50/pack.
-- [CJC-1295 with DAC](https://weike.com/peptides/cjc-1295-dac.html): CAS 863288-34-0; MW 3,647.2 Da; Growth & Secretagogues; 2 pack formats; from $135.80/pack.
-- [CJC-1295 without DAC](https://weike.com/peptides/cjc-1295-no-dac.html): CAS not published in source catalog; MW 3,367.9 Da; Growth & Secretagogues; 1 pack format; from $311.65/pack.
-- [Follistatin-344](https://weike.com/peptides/follistatin.html): CAS not published in source catalog; protein or complex; no single molecular weight; Growth & Secretagogues; 1 pack format; from $412.60/pack.
-- [GDF-8 (Myostatin)](https://weike.com/peptides/gdf-8.html): CAS not published in source catalog; protein or complex; no single molecular weight; Growth & Secretagogues; 1 pack format; from $494.45/pack.
-- [GHRP-2](https://weike.com/peptides/ghrp-2.html): CAS 158861-67-7; MW 818 Da; Growth & Secretagogues; 3 pack formats; from $90.55/pack.
-- [GHRP-6](https://weike.com/peptides/ghrp-6.html): CAS 87616-84-0; MW 873 Da; Growth & Secretagogues; 2 pack formats; from $142.95/pack.
-- [Hexarelin](https://weike.com/peptides/hexarelin.html): CAS 140703-51-1; MW 911.1 Da; Growth & Secretagogues; 2 pack formats; from $117.35/pack.
-- [IGF-1 LR3](https://weike.com/peptides/igf-1-lr3.html): CAS 946870-92-4; protein or complex; no single molecular weight; Growth & Secretagogues; 3 pack formats; from $41.80/pack.
-- [Ipamorelin](https://weike.com/peptides/ipamorelin.html): CAS 170851-70-4; MW 711.9 Da; Growth & Secretagogues; 3 pack formats; from $64.40/pack.
-- [MGF / PEG-MGF](https://weike.com/peptides/mgf.html): CAS not published in source catalog; MW not published; Growth & Secretagogues; 1 pack format; from $184.30/pack.
-- [MK-677](https://weike.com/peptides/mk677.html): CAS 159752-10-0; MW 624.8 Da; Growth & Secretagogues; 1 pack format; from $27.85/pack.
-- [Sermorelin](https://weike.com/peptides/sermorelin.html): CAS 86168-78-7; MW 3,357.9 Da; Growth & Secretagogues; 3 pack formats; from $107.95/pack.
-- [Tesamorelin](https://weike.com/peptides/tesamorelin.html): CAS 218949-48-5; MW 5,136 Da; Growth & Secretagogues; 4 pack formats; from $142.75/pack.
-- [ARA-290 (Cibinetide)](https://weike.com/peptides/ara-290.html): CAS 1208243-50-8; MW 1,257.3 Da; Repair & Regenerative; 3 pack formats; from $197.10/pack.
-- [B7-33](https://weike.com/peptides/b7-33.html): CAS not published in source catalog; MW 2,986.5 Da; Repair & Regenerative; 2 pack formats; from $149.70/pack.
-- [BPC-157](https://weike.com/peptides/bpc-157.html): CAS 137525-51-0; MW 1,419.5 Da; Repair & Regenerative; 4 pack formats; from $67.70/pack.
-- [PNC-27](https://weike.com/peptides/pnc-27.html): CAS not published in source catalog; MW 4,032 Da; Repair & Regenerative; 3 pack formats; from $132.30/pack.
-- [PTD-DBM](https://weike.com/peptides/ptd-dbm.html): CAS not published in source catalog; MW 3,082.6 Da; Repair & Regenerative; 1 pack format; from $143.30/pack.
-- [TB-500](https://weike.com/peptides/tb500.html): CAS 885340-08-9; MW 889 Da; Repair & Regenerative; 3 pack formats; from $100.90/pack.
-- [AHK-Cu](https://weike.com/peptides/ahk-cu.html): CAS not published in source catalog; MW not published; Cosmetic & Dermatology; 2 pack formats; from $177.25/pack.
-- [GHK-Cu](https://weike.com/peptides/ghk-cu.html): CAS 89030-95-5; MW 401.91 Da; Cosmetic & Dermatology; 2 pack formats; from $66.15/pack.
-- [Glutathione](https://weike.com/peptides/glutathione.html): CAS 70-18-8; MW 307.33 Da; Cosmetic & Dermatology; 5 pack formats; from $39.70/pack.
-- [LC553](https://weike.com/peptides/lc553.html): CAS not published in source catalog; MW not published; Cosmetic & Dermatology; 1 pack format; from $300.00/pack.
-- [Lemon Bottle (Supplier Lipolytic Solution)](https://weike.com/peptides/lemon-bottle.html): CAS not published in source catalog; MW not published; Cosmetic & Dermatology; 1 pack format; from $148.35/pack.
-- [Lipo-C / MIC Lipotropic Blend](https://weike.com/peptides/lipo-c.html): CAS not published in source catalog; MW not published; Cosmetic & Dermatology; 2 pack formats; from $260.00/pack.
-- [Matrixyl (Palmitoyl Pentapeptide-4)](https://weike.com/peptides/matrixyl.html): CAS 214047-00-4; MW 802.1 Da; Cosmetic & Dermatology; 1 pack format; from $104.45/pack.
-- [Snap-8](https://weike.com/peptides/snap8.html): CAS 868844-74-0; MW 1,073.2 Da; Cosmetic & Dermatology; 2 pack formats; from $94.00/pack.
-- [Cerebrolysin](https://weike.com/peptides/cerebrolysin.html): CAS not published in source catalog; protein or complex; no single molecular weight; Neuro & Cognitive; 1 pack format; from $114.75/pack.
-- [Dermorphin](https://weike.com/peptides/dermorphin.html): CAS 77614-16-5; MW 802.9 Da; Neuro & Cognitive; 3 pack formats; from $72.40/pack.
-- [DSIP (Delta Sleep-Inducing Peptide)](https://weike.com/peptides/dsip.html): CAS 62568-57-4; MW 848.8 Da; Neuro & Cognitive; 3 pack formats; from $73.10/pack.
-- [Melatonin](https://weike.com/peptides/melatonin.html): CAS 73-31-4; MW 232.28 Da; Neuro & Cognitive; 1 pack format; from $144.15/pack.
-- [Orexin A (Hypocretin-1)](https://weike.com/peptides/orexin-a.html): CAS not published in source catalog; MW 3,561.1 Da; Neuro & Cognitive; 1 pack format; from $1,566.85/pack.
-- [Orexin B (Hypocretin-2)](https://weike.com/peptides/orexin-b.html): CAS not published in source catalog; MW 2,899.3 Da; Neuro & Cognitive; 2 pack formats; from $313.35/pack.
-- [P21 (P021)](https://weike.com/peptides/p21.html): CAS not published in source catalog; MW not published; Neuro & Cognitive; 2 pack formats; from $22.85/pack.
-- [PE-22-28](https://weike.com/peptides/pe-22-28.html): CAS not published in source catalog; MW 773.9 Da; Neuro & Cognitive; 2 pack formats; from $100.95/pack.
-- [Selank](https://weike.com/peptides/selank.html): CAS 129954-34-3; MW 751.9 Da; Neuro & Cognitive; 2 pack formats; from $95.75/pack.
-- [Semax](https://weike.com/peptides/semax.html): CAS 80714-61-0; MW 813.9 Da; Neuro & Cognitive; 2 pack formats; from $94.00/pack.
-- [VIP (Vasoactive Intestinal Peptide)](https://weike.com/peptides/vip.html): CAS not published in source catalog; MW not published; Neuro & Cognitive; 2 pack formats; from $205.45/pack.
-- [Bronchogen](https://weike.com/peptides/bronchogen.html): CAS not published in source catalog; MW 446.5 Da; Longevity & Bioregulators; 1 pack format; from $232.75/pack.
-- [Cardiogen](https://weike.com/peptides/cardiogen.html): CAS not published in source catalog; MW not published; Longevity & Bioregulators; 1 pack format; from $254.20/pack.
-- [Cartalax](https://weike.com/peptides/cartalax.html): CAS not published in source catalog; MW 333.29 Da; Longevity & Bioregulators; 1 pack format; from $264.60/pack.
-- [Cortagen](https://weike.com/peptides/cortagen.html): CAS not published in source catalog; MW 430.4 Da; Longevity & Bioregulators; 1 pack format; from $264.60/pack.
-- [Crystagen](https://weike.com/peptides/crystagen.html): CAS not published in source catalog; MW not published; Longevity & Bioregulators; 1 pack format; from $176.70/pack.
-- [Epithalon (Epitalon)](https://weike.com/peptides/epithalon.html): CAS 307297-39-8; MW 390.35 Da; Longevity & Bioregulators; 2 pack formats; from $113.15/pack.
-- [FOXO4-DRI](https://weike.com/peptides/foxo4-dri.html): CAS not published in source catalog; MW 5,358 Da; Longevity & Bioregulators; 2 pack formats; from $264.60/pack.
-- [Humanin](https://weike.com/peptides/humanin.html): CAS 330936-69-1; MW 2,687.2 Da; Longevity & Bioregulators; 1 pack format; from $720.75/pack.
-- [Livagen](https://weike.com/peptides/livagen.html): CAS not published in source catalog; MW 461.5 Da; Longevity & Bioregulators; 1 pack format; from $264.60/pack.
-- [NAD+](https://weike.com/peptides/nad-plus.html): CAS 53-84-9; MW 663.4 Da; Longevity & Bioregulators; 3 pack formats; from $71.40/pack.
-- [Pancragen](https://weike.com/peptides/pancragen.html): CAS not published in source catalog; MW not published; Longevity & Bioregulators; 1 pack format; from $334.25/pack.
-- [Pinealon](https://weike.com/peptides/pinealon.html): CAS not published in source catalog; MW 418.4 Da; Longevity & Bioregulators; 3 pack formats; from $97.50/pack.
-- [Prostamax](https://weike.com/peptides/prostamax.html): CAS not published in source catalog; MW 487.5 Da; Longevity & Bioregulators; 1 pack format; from $452.65/pack.
-- [SS-31 (Elamipretide)](https://weike.com/peptides/ss-31.html): CAS 736992-21-5; MW 639.8 Da; Longevity & Bioregulators; 3 pack formats; from $119.10/pack.
-- [Testagen](https://weike.com/peptides/testagen.html): CAS not published in source catalog; MW not published; Longevity & Bioregulators; 1 pack format; from $181.05/pack.
-- [Vesugen](https://weike.com/peptides/vesugen.html): CAS not published in source catalog; MW not published; Longevity & Bioregulators; 1 pack format; from $162.95/pack.
-- [KPV (Lys-Pro-Val)](https://weike.com/peptides/kpv.html): CAS 67727-97-3; MW 342.43 Da; Immune & Antimicrobial; 3 pack formats; from $147.00/pack.
-- [LL-37](https://weike.com/peptides/ll37.html): CAS 154947-66-7; MW 4,493 Da; Immune & Antimicrobial; 3 pack formats; from $262.70/pack.
-- [Thymalin / Thymulin](https://weike.com/peptides/thymalin.html): CAS 63958-90-7; MW 858.9 Da; Immune & Antimicrobial; 1 pack format; from $193.70/pack.
-- [Thymosin Alpha-1](https://weike.com/peptides/thymosin-alpha-1.html): CAS 62304-98-7; MW 3,108.3 Da; Immune & Antimicrobial; 2 pack formats; from $255.90/pack.
-- [ACTH (1-39)](https://weike.com/peptides/acth-1-39.html): CAS 9002-60-2; MW 4,541 Da; Fertility & Endocrine; 1 pack format; from $155.30/pack.
-- [Bremelanotide (PT-141)](https://weike.com/peptides/bremelanotide.html): CAS 189691-06-3; MW 1,025.2 Da; Fertility & Endocrine; 1 pack format; from $134.07/pack.
-- [Gonadorelin](https://weike.com/peptides/gonadorelin.html): CAS 34973-08-5; MW 1,242.3 Da; Fertility & Endocrine; 3 pack formats; from $52.25/pack.
-- [Kisspeptin-10](https://weike.com/peptides/kisspeptin-10.html): CAS 374675-21-5; MW 1,302.4 Da; Fertility & Endocrine; 2 pack formats; from $121.85/pack.
-- [Melanotan I (Afamelanotide)](https://weike.com/peptides/melanotan-i.html): CAS 75921-69-6; MW 1,646.8 Da; Fertility & Endocrine; 1 pack format; from $135.80/pack.
-- [Melanotan II](https://weike.com/peptides/melanotan-ii.html): CAS 121062-08-6; MW 1,024.2 Da; Fertility & Endocrine; 1 pack format; from $200.00/pack.
-- [Oxytocin Acetate](https://weike.com/peptides/oxytocin.html): CAS 6233-83-6; MW 1,067.2 Da; Fertility & Endocrine; 3 pack formats; from $61.10/pack.
-- [Teriparatide (PTH 1-34)](https://weike.com/peptides/teriparatide.html): CAS 52232-67-4; MW 4,118 Da; Fertility & Endocrine; 1 pack format; from $362.10/pack.
-- [Triptorelin](https://weike.com/peptides/triptorelin.html): CAS 57773-63-4; MW 1,311.4 Da; Fertility & Endocrine; 1 pack format; from $104.45/pack.
-- [Botulinum Toxin](https://weike.com/peptides/botulinum-toxin.html): CAS 93384-43-1; protein or complex; no single molecular weight; Proteins & Biologics; 1 pack format; from $197.40/pack.
-- [EPO (Erythropoietin)](https://weike.com/peptides/epo.html): CAS 11096-26-7; protein or complex; no single molecular weight; Proteins & Biologics; 1 pack format; from $160.15/pack.
-- [HCG (Human Chorionic Gonadotropin)](https://weike.com/peptides/hcg.html): CAS 9002-61-3; protein or complex; no single molecular weight; Proteins & Biologics; 4 pack formats; from $89.15/pack.
-- [HGH (Somatropin)](https://weike.com/peptides/hgh.html): CAS 12629-01-5; protein or complex; no single molecular weight; Proteins & Biologics; 7 pack formats; from $99.22/pack.
-- [HMG (Human Menopausal Gonadotropin)](https://weike.com/peptides/hmg.html): CAS 9002-68-0; protein or complex; no single molecular weight; Proteins & Biologics; 1 pack format; from $145.35/pack.
-- [BPC-157 + TB-500 Blend](https://weike.com/peptides/bpc-tb-blend.html): CAS not published in source catalog; multi-component blend; Research Blends; 3 pack formats; from $249.45/pack.
-- [CagriSema (Cagrilintide + Semaglutide)](https://weike.com/peptides/cagrisema.html): CAS not published in source catalog; multi-component blend; Research Blends; 3 pack formats; from $167.12/pack.
-- [CJC-1295 (No DAC) + Ipamorelin](https://weike.com/peptides/cjc-ipa-blend.html): CAS not published in source catalog; multi-component blend; Research Blends; 2 pack formats; from $193.25/pack.
-- [GLOW Blend (BPC-157 + GHK-Cu + TB-500)](https://weike.com/peptides/glow-blend.html): CAS not published in source catalog; multi-component blend; Research Blends; 1 pack format; from $365.60/pack.
-- [Hair, Skin & Nails Blend](https://weike.com/peptides/hair-skin-nails-blend.html): CAS not published in source catalog; multi-component blend; Research Blends; 1 pack format; from $260.00/pack.
-- [KLOW Blend (GHK-Cu + BPC-157 + TB-500 + KPV)](https://weike.com/peptides/klow-blend.html): CAS not published in source catalog; multi-component blend; Research Blends; 1 pack format; from $731.20/pack.
-- [Relaxation PM](https://weike.com/peptides/relaxation-pm.html): CAS not published in source catalog; multi-component blend; Research Blends; 1 pack format; from $260.00/pack.
-- [Retatrutide + Cagrilintide](https://weike.com/peptides/retatrutide-cagrilintide.html): CAS not published in source catalog; multi-component blend; Research Blends; 1 pack format; from $1,150.00/pack.
-- [Retatrutide + Tirzepatide (20 + 40 mg)](https://weike.com/peptides/retatrutide-tirzepatide.html): CAS not published in source catalog; multi-component blend; Research Blends; 1 pack format; from $605.85/pack.
-- [Super Human Blend](https://weike.com/peptides/super-human-blend.html): CAS not published in source catalog; multi-component blend; Research Blends; 1 pack format; from $260.00/pack.
-- [Tesamorelin + Ipamorelin](https://weike.com/peptides/tesamorelin-ipamorelin.html): CAS not published in source catalog; multi-component blend; Research Blends; 6 pack formats; from $188.00/pack.
-- [Acetic Acid](https://weike.com/peptides/acetic-acid.html): CAS 64-19-7; MW 60.05 Da; Lab Supplies & Diluents; 3 pack formats; from $19.50/pack.
-- [Acetic Acid Water 0.6%](https://weike.com/peptides/acetic-acid-water.html): CAS not published in source catalog; MW not published; Lab Supplies & Diluents; 2 pack formats; from $37.50/pack.
-- [Bacteriostatic Water](https://weike.com/peptides/bacteriostatic-water.html): CAS not published in source catalog; MW not published; Lab Supplies & Diluents; 2 pack formats; from $40.00/pack.
-- [Benzyl Alcohol 0.9%](https://weike.com/peptides/benzyl-alcohol.html): CAS 100-51-6; MW 108.14 Da; Lab Supplies & Diluents; 3 pack formats; from $30.00/pack.
-- [Vitamin B Complex Injection](https://weike.com/peptides/vitamin-b-complex.html): CAS not published in source catalog; MW not published; Lab Supplies & Diluents; 1 pack format; from $75.00/pack.
-- [Vitamin B12](https://weike.com/peptides/vitamin-b12.html): CAS 68-19-9; MW 1,355.4 Da; Lab Supplies & Diluents; 2 pack formats; from $30.00/pack.
-- [Vitamin B6 Injection](https://weike.com/peptides/vitamin-b6.html): CAS 65-23-6; MW 169.18 Da; Lab Supplies & Diluents; 1 pack format; from $87.50/pack.
-- [Vitamin C Injection](https://weike.com/peptides/vitamin-c.html): CAS 50-81-7; MW 176.12 Da; Lab Supplies & Diluents; 1 pack format; from $30.00/pack.
-- [Vitamin D2 Injection](https://weike.com/peptides/vitamin-d2.html): CAS 50-14-6; MW 396.65 Da; Lab Supplies & Diluents; 1 pack format; from $170.00/pack.
-- [Adamax](https://weike.com/peptides/adamax.html): CAS not published in source catalog; MW not published; Specialty Catalog; 3 pack formats; from $200.05/pack.
-- [GGH](https://weike.com/peptides/ggh.html): CAS not published in source catalog; MW not published; Specialty Catalog; 1 pack format; from $300.00/pack.
-- [SLU332](https://weike.com/peptides/slu332.html): CAS not published in source catalog; MW not published; Specialty Catalog; 2 pack formats; from $195.00/pack.
+## Register records
+- [5-Amino-1MQ](https://weike.com/peptides/5-amino-1mq.html): CAS not published in source register; MW 159.21 Da; Metabolic & GLP-1; 3 pack schedules; from $59.35/pack.
+- [Adipotide / FTTP](https://weike.com/peptides/adipotide.html): CAS not published in source register; MW 2,557.2 Da; Metabolic & GLP-1; 3 pack schedules; from $176.90/pack.
+- [AICAR](https://weike.com/peptides/aicar.html): CAS 2627-69-2; MW 258.23 Da; Metabolic & GLP-1; 2 pack schedules; from $125.35/pack.
+- [AOD9604](https://weike.com/peptides/aod9604.html): CAS 221231-10-3; MW 1,815.1 Da; Metabolic & GLP-1; 3 pack schedules; from $114.90/pack.
+- [Cagrilintide](https://weike.com/peptides/cagrilintide.html): CAS 1415456-99-3; MW 4,409 Da; Metabolic & GLP-1; 3 pack schedules; from $153.20/pack.
+- [Dulaglutide](https://weike.com/peptides/dulaglutide.html): CAS 923950-08-7; protein or complex; no single molecular weight; Metabolic & GLP-1; 2 pack schedules; from $383.00/pack.
+- [HGH Fragment 176-191](https://weike.com/peptides/hgh-fragment-176-191.html): CAS 66004-57-7; MW 1,799.1 Da; Metabolic & GLP-1; 6 pack schedules; from $88.80/pack.
+- [L-Carnitine](https://weike.com/peptides/l-carnitine.html): CAS 541-15-1; MW 161.2 Da; Metabolic & GLP-1; 6 pack schedules; from $64.40/pack.
+- [Liraglutide](https://weike.com/peptides/liraglutide.html): CAS 204656-20-2; MW 3,751 Da; Metabolic & GLP-1; 3 pack schedules; from $219.35/pack.
+- [Mazdutide](https://weike.com/peptides/mazdutide.html): CAS 2259884-03-0; MW 4,563.1 Da; Metabolic & GLP-1; 2 pack schedules; from $181.05/pack.
+- [MOTS-c](https://weike.com/peptides/mots-c.html): CAS 1627580-64-6; MW 2,174.6 Da; Metabolic & GLP-1; 4 pack schedules; from $186.30/pack.
+- [Retatrutide](https://weike.com/peptides/retatrutide.html): CAS 2381089-83-2; MW 4,731.3 Da; Metabolic & GLP-1; 10 pack schedules; from $158.45/pack.
+- [Semaglutide](https://weike.com/peptides/semaglutide.html): CAS 910463-68-2; MW 4,114 Da; Metabolic & GLP-1; 7 pack schedules; from $62.65/pack.
+- [Survodutide](https://weike.com/peptides/survodutide.html): CAS 2805997-46-8; MW 4,232 Da; Metabolic & GLP-1; 1 pack schedule; from $553.60/pack.
+- [Tirzepatide](https://weike.com/peptides/tirzepatide.html): CAS 2023788-19-2; MW 4,813.5 Da; Metabolic & GLP-1; 12 pack schedules; from $90.55/pack.
+- [ACE-031](https://weike.com/peptides/ace-031.html): CAS not published in source register; protein or complex; no single molecular weight; Growth & Secretagogues; 1 pack schedule; from $97.50/pack.
+- [CJC-1295 with DAC](https://weike.com/peptides/cjc-1295-dac.html): CAS 863288-34-0; MW 3,647.2 Da; Growth & Secretagogues; 2 pack schedules; from $135.80/pack.
+- [CJC-1295 without DAC](https://weike.com/peptides/cjc-1295-no-dac.html): CAS not published in source register; MW 3,367.9 Da; Growth & Secretagogues; 1 pack schedule; from $311.65/pack.
+- [Follistatin-344](https://weike.com/peptides/follistatin.html): CAS not published in source register; protein or complex; no single molecular weight; Growth & Secretagogues; 1 pack schedule; from $412.60/pack.
+- [GDF-8 (Myostatin)](https://weike.com/peptides/gdf-8.html): CAS not published in source register; protein or complex; no single molecular weight; Growth & Secretagogues; 1 pack schedule; from $494.45/pack.
+- [GHRP-2](https://weike.com/peptides/ghrp-2.html): CAS 158861-67-7; MW 818 Da; Growth & Secretagogues; 3 pack schedules; from $90.55/pack.
+- [GHRP-6](https://weike.com/peptides/ghrp-6.html): CAS 87616-84-0; MW 873 Da; Growth & Secretagogues; 2 pack schedules; from $142.95/pack.
+- [Hexarelin](https://weike.com/peptides/hexarelin.html): CAS 140703-51-1; MW 911.1 Da; Growth & Secretagogues; 2 pack schedules; from $117.35/pack.
+- [IGF-1 LR3](https://weike.com/peptides/igf-1-lr3.html): CAS 946870-92-4; protein or complex; no single molecular weight; Growth & Secretagogues; 3 pack schedules; from $41.80/pack.
+- [Ipamorelin](https://weike.com/peptides/ipamorelin.html): CAS 170851-70-4; MW 711.9 Da; Growth & Secretagogues; 3 pack schedules; from $64.40/pack.
+- [MGF / PEG-MGF](https://weike.com/peptides/mgf.html): CAS not published in source register; MW not published; Growth & Secretagogues; 1 pack schedule; from $184.30/pack.
+- [MK-677](https://weike.com/peptides/mk677.html): CAS 159752-10-0; MW 624.8 Da; Growth & Secretagogues; 1 pack schedule; from $27.85/pack.
+- [Sermorelin](https://weike.com/peptides/sermorelin.html): CAS 86168-78-7; MW 3,357.9 Da; Growth & Secretagogues; 3 pack schedules; from $107.95/pack.
+- [Tesamorelin](https://weike.com/peptides/tesamorelin.html): CAS 218949-48-5; MW 5,136 Da; Growth & Secretagogues; 4 pack schedules; from $142.75/pack.
+- [ARA-290 (Cibinetide)](https://weike.com/peptides/ara-290.html): CAS 1208243-50-8; MW 1,257.3 Da; Repair & Regenerative; 3 pack schedules; from $197.10/pack.
+- [B7-33](https://weike.com/peptides/b7-33.html): CAS not published in source register; MW 2,986.5 Da; Repair & Regenerative; 2 pack schedules; from $149.70/pack.
+- [BPC-157](https://weike.com/peptides/bpc-157.html): CAS 137525-51-0; MW 1,419.5 Da; Repair & Regenerative; 4 pack schedules; from $67.70/pack.
+- [PNC-27](https://weike.com/peptides/pnc-27.html): CAS not published in source register; MW 4,032 Da; Repair & Regenerative; 3 pack schedules; from $132.30/pack.
+- [PTD-DBM](https://weike.com/peptides/ptd-dbm.html): CAS not published in source register; MW 3,082.6 Da; Repair & Regenerative; 1 pack schedule; from $143.30/pack.
+- [TB-500](https://weike.com/peptides/tb500.html): CAS 885340-08-9; MW 889 Da; Repair & Regenerative; 3 pack schedules; from $100.90/pack.
+- [AHK-Cu](https://weike.com/peptides/ahk-cu.html): CAS not published in source register; MW not published; Cosmetic & Dermatology; 2 pack schedules; from $177.25/pack.
+- [GHK-Cu](https://weike.com/peptides/ghk-cu.html): CAS 89030-95-5; MW 401.91 Da; Cosmetic & Dermatology; 2 pack schedules; from $66.15/pack.
+- [Glutathione](https://weike.com/peptides/glutathione.html): CAS 70-18-8; MW 307.33 Da; Cosmetic & Dermatology; 5 pack schedules; from $39.70/pack.
+- [LC553](https://weike.com/peptides/lc553.html): CAS not published in source register; MW not published; Cosmetic & Dermatology; 1 pack schedule; from $300.00/pack.
+- [Lemon Bottle (Supplier Lipolytic Solution)](https://weike.com/peptides/lemon-bottle.html): CAS not published in source register; MW not published; Cosmetic & Dermatology; 1 pack schedule; from $148.35/pack.
+- [Lipo-C / MIC Lipotropic Blend](https://weike.com/peptides/lipo-c.html): CAS not published in source register; MW not published; Cosmetic & Dermatology; 2 pack schedules; from $260.00/pack.
+- [Matrixyl (Palmitoyl Pentapeptide-4)](https://weike.com/peptides/matrixyl.html): CAS 214047-00-4; MW 802.1 Da; Cosmetic & Dermatology; 1 pack schedule; from $104.45/pack.
+- [Snap-8](https://weike.com/peptides/snap8.html): CAS 868844-74-0; MW 1,073.2 Da; Cosmetic & Dermatology; 2 pack schedules; from $94.00/pack.
+- [Cerebrolysin](https://weike.com/peptides/cerebrolysin.html): CAS not published in source register; protein or complex; no single molecular weight; Neuro & Cognitive; 1 pack schedule; from $114.75/pack.
+- [Dermorphin](https://weike.com/peptides/dermorphin.html): CAS 77614-16-5; MW 802.9 Da; Neuro & Cognitive; 3 pack schedules; from $72.40/pack.
+- [DSIP (Delta Sleep-Inducing Peptide)](https://weike.com/peptides/dsip.html): CAS 62568-57-4; MW 848.8 Da; Neuro & Cognitive; 3 pack schedules; from $73.10/pack.
+- [Melatonin](https://weike.com/peptides/melatonin.html): CAS 73-31-4; MW 232.28 Da; Neuro & Cognitive; 1 pack schedule; from $144.15/pack.
+- [Orexin A (Hypocretin-1)](https://weike.com/peptides/orexin-a.html): CAS not published in source register; MW 3,561.1 Da; Neuro & Cognitive; 1 pack schedule; from $1,566.85/pack.
+- [Orexin B (Hypocretin-2)](https://weike.com/peptides/orexin-b.html): CAS not published in source register; MW 2,899.3 Da; Neuro & Cognitive; 2 pack schedules; from $313.35/pack.
+- [P21 (P021)](https://weike.com/peptides/p21.html): CAS not published in source register; MW not published; Neuro & Cognitive; 2 pack schedules; from $22.85/pack.
+- [PE-22-28](https://weike.com/peptides/pe-22-28.html): CAS not published in source register; MW 773.9 Da; Neuro & Cognitive; 2 pack schedules; from $100.95/pack.
+- [Selank](https://weike.com/peptides/selank.html): CAS 129954-34-3; MW 751.9 Da; Neuro & Cognitive; 2 pack schedules; from $95.75/pack.
+- [Semax](https://weike.com/peptides/semax.html): CAS 80714-61-0; MW 813.9 Da; Neuro & Cognitive; 2 pack schedules; from $94.00/pack.
+- [VIP (Vasoactive Intestinal Peptide)](https://weike.com/peptides/vip.html): CAS not published in source register; MW not published; Neuro & Cognitive; 2 pack schedules; from $205.45/pack.
+- [Bronchogen](https://weike.com/peptides/bronchogen.html): CAS not published in source register; MW 446.5 Da; Longevity & Bioregulators; 1 pack schedule; from $232.75/pack.
+- [Cardiogen](https://weike.com/peptides/cardiogen.html): CAS not published in source register; MW not published; Longevity & Bioregulators; 1 pack schedule; from $254.20/pack.
+- [Cartalax](https://weike.com/peptides/cartalax.html): CAS not published in source register; MW 333.29 Da; Longevity & Bioregulators; 1 pack schedule; from $264.60/pack.
+- [Cortagen](https://weike.com/peptides/cortagen.html): CAS not published in source register; MW 430.4 Da; Longevity & Bioregulators; 1 pack schedule; from $264.60/pack.
+- [Crystagen](https://weike.com/peptides/crystagen.html): CAS not published in source register; MW not published; Longevity & Bioregulators; 1 pack schedule; from $176.70/pack.
+- [Epithalon (Epitalon)](https://weike.com/peptides/epithalon.html): CAS 307297-39-8; MW 390.35 Da; Longevity & Bioregulators; 2 pack schedules; from $113.15/pack.
+- [FOXO4-DRI](https://weike.com/peptides/foxo4-dri.html): CAS not published in source register; MW 5,358 Da; Longevity & Bioregulators; 2 pack schedules; from $264.60/pack.
+- [Humanin](https://weike.com/peptides/humanin.html): CAS 330936-69-1; MW 2,687.2 Da; Longevity & Bioregulators; 1 pack schedule; from $720.75/pack.
+- [Livagen](https://weike.com/peptides/livagen.html): CAS not published in source register; MW 461.5 Da; Longevity & Bioregulators; 1 pack schedule; from $264.60/pack.
+- [NAD+](https://weike.com/peptides/nad-plus.html): CAS 53-84-9; MW 663.4 Da; Longevity & Bioregulators; 3 pack schedules; from $71.40/pack.
+- [Pancragen](https://weike.com/peptides/pancragen.html): CAS not published in source register; MW not published; Longevity & Bioregulators; 1 pack schedule; from $334.25/pack.
+- [Pinealon](https://weike.com/peptides/pinealon.html): CAS not published in source register; MW 418.4 Da; Longevity & Bioregulators; 3 pack schedules; from $97.50/pack.
+- [Prostamax](https://weike.com/peptides/prostamax.html): CAS not published in source register; MW 487.5 Da; Longevity & Bioregulators; 1 pack schedule; from $452.65/pack.
+- [SS-31 (Elamipretide)](https://weike.com/peptides/ss-31.html): CAS 736992-21-5; MW 639.8 Da; Longevity & Bioregulators; 3 pack schedules; from $119.10/pack.
+- [Testagen](https://weike.com/peptides/testagen.html): CAS not published in source register; MW not published; Longevity & Bioregulators; 1 pack schedule; from $181.05/pack.
+- [Vesugen](https://weike.com/peptides/vesugen.html): CAS not published in source register; MW not published; Longevity & Bioregulators; 1 pack schedule; from $162.95/pack.
+- [KPV (Lys-Pro-Val)](https://weike.com/peptides/kpv.html): CAS 67727-97-3; MW 342.43 Da; Immune & Antimicrobial; 3 pack schedules; from $147.00/pack.
+- [LL-37](https://weike.com/peptides/ll37.html): CAS 154947-66-7; MW 4,493 Da; Immune & Antimicrobial; 3 pack schedules; from $262.70/pack.
+- [Thymalin / Thymulin](https://weike.com/peptides/thymalin.html): CAS 63958-90-7; MW 858.9 Da; Immune & Antimicrobial; 1 pack schedule; from $193.70/pack.
+- [Thymosin Alpha-1](https://weike.com/peptides/thymosin-alpha-1.html): CAS 62304-98-7; MW 3,108.3 Da; Immune & Antimicrobial; 2 pack schedules; from $255.90/pack.
+- [ACTH (1-39)](https://weike.com/peptides/acth-1-39.html): CAS 9002-60-2; MW 4,541 Da; Fertility & Endocrine; 1 pack schedule; from $155.30/pack.
+- [Bremelanotide (PT-141)](https://weike.com/peptides/bremelanotide.html): CAS 189691-06-3; MW 1,025.2 Da; Fertility & Endocrine; 1 pack schedule; from $134.07/pack.
+- [Gonadorelin](https://weike.com/peptides/gonadorelin.html): CAS 34973-08-5; MW 1,242.3 Da; Fertility & Endocrine; 3 pack schedules; from $52.25/pack.
+- [Kisspeptin-10](https://weike.com/peptides/kisspeptin-10.html): CAS 374675-21-5; MW 1,302.4 Da; Fertility & Endocrine; 2 pack schedules; from $121.85/pack.
+- [Melanotan I (Afamelanotide)](https://weike.com/peptides/melanotan-i.html): CAS 75921-69-6; MW 1,646.8 Da; Fertility & Endocrine; 1 pack schedule; from $135.80/pack.
+- [Melanotan II](https://weike.com/peptides/melanotan-ii.html): CAS 121062-08-6; MW 1,024.2 Da; Fertility & Endocrine; 1 pack schedule; from $200.00/pack.
+- [Oxytocin Acetate](https://weike.com/peptides/oxytocin.html): CAS 6233-83-6; MW 1,067.2 Da; Fertility & Endocrine; 3 pack schedules; from $61.10/pack.
+- [Teriparatide (PTH 1-34)](https://weike.com/peptides/teriparatide.html): CAS 52232-67-4; MW 4,118 Da; Fertility & Endocrine; 1 pack schedule; from $362.10/pack.
+- [Triptorelin](https://weike.com/peptides/triptorelin.html): CAS 57773-63-4; MW 1,311.4 Da; Fertility & Endocrine; 1 pack schedule; from $104.45/pack.
+- [Botulinum Toxin](https://weike.com/peptides/botulinum-toxin.html): CAS 93384-43-1; protein or complex; no single molecular weight; Proteins & Biologics; 1 pack schedule; from $197.40/pack.
+- [EPO (Erythropoietin)](https://weike.com/peptides/epo.html): CAS 11096-26-7; protein or complex; no single molecular weight; Proteins & Biologics; 1 pack schedule; from $160.15/pack.
+- [HCG (Human Chorionic Gonadotropin)](https://weike.com/peptides/hcg.html): CAS 9002-61-3; protein or complex; no single molecular weight; Proteins & Biologics; 4 pack schedules; from $89.15/pack.
+- [HGH (Somatropin)](https://weike.com/peptides/hgh.html): CAS 12629-01-5; protein or complex; no single molecular weight; Proteins & Biologics; 7 pack schedules; from $99.22/pack.
+- [HMG (Human Menopausal Gonadotropin)](https://weike.com/peptides/hmg.html): CAS 9002-68-0; protein or complex; no single molecular weight; Proteins & Biologics; 1 pack schedule; from $145.35/pack.
+- [BPC-157 + TB-500 Blend](https://weike.com/peptides/bpc-tb-blend.html): CAS not published in source register; multi-component blend; Research Blends; 3 pack schedules; from $249.45/pack.
+- [CagriSema (Cagrilintide + Semaglutide)](https://weike.com/peptides/cagrisema.html): CAS not published in source register; multi-component blend; Research Blends; 3 pack schedules; from $167.12/pack.
+- [CJC-1295 (No DAC) + Ipamorelin](https://weike.com/peptides/cjc-ipa-blend.html): CAS not published in source register; multi-component blend; Research Blends; 2 pack schedules; from $193.25/pack.
+- [GLOW Blend (BPC-157 + GHK-Cu + TB-500)](https://weike.com/peptides/glow-blend.html): CAS not published in source register; multi-component blend; Research Blends; 1 pack schedule; from $365.60/pack.
+- [Hair, Skin & Nails Blend](https://weike.com/peptides/hair-skin-nails-blend.html): CAS not published in source register; multi-component blend; Research Blends; 1 pack schedule; from $260.00/pack.
+- [KLOW Blend (GHK-Cu + BPC-157 + TB-500 + KPV)](https://weike.com/peptides/klow-blend.html): CAS not published in source register; multi-component blend; Research Blends; 1 pack schedule; from $731.20/pack.
+- [Relaxation PM](https://weike.com/peptides/relaxation-pm.html): CAS not published in source register; multi-component blend; Research Blends; 1 pack schedule; from $260.00/pack.
+- [Retatrutide + Cagrilintide](https://weike.com/peptides/retatrutide-cagrilintide.html): CAS not published in source register; multi-component blend; Research Blends; 1 pack schedule; from $1,150.00/pack.
+- [Retatrutide + Tirzepatide (20 + 40 mg)](https://weike.com/peptides/retatrutide-tirzepatide.html): CAS not published in source register; multi-component blend; Research Blends; 1 pack schedule; from $605.85/pack.
+- [Super Human Blend](https://weike.com/peptides/super-human-blend.html): CAS not published in source register; multi-component blend; Research Blends; 1 pack schedule; from $260.00/pack.
+- [Tesamorelin + Ipamorelin](https://weike.com/peptides/tesamorelin-ipamorelin.html): CAS not published in source register; multi-component blend; Research Blends; 6 pack schedules; from $188.00/pack.
+- [Acetic Acid](https://weike.com/peptides/acetic-acid.html): CAS 64-19-7; MW 60.05 Da; Lab Supplies & Diluents; 3 pack schedules; from $19.50/pack.
+- [Acetic Acid Water 0.6%](https://weike.com/peptides/acetic-acid-water.html): CAS not published in source register; MW not published; Lab Supplies & Diluents; 2 pack schedules; from $37.50/pack.
+- [Bacteriostatic Water](https://weike.com/peptides/bacteriostatic-water.html): CAS not published in source register; MW not published; Lab Supplies & Diluents; 2 pack schedules; from $40.00/pack.
+- [Benzyl Alcohol 0.9%](https://weike.com/peptides/benzyl-alcohol.html): CAS 100-51-6; MW 108.14 Da; Lab Supplies & Diluents; 3 pack schedules; from $30.00/pack.
+- [Vitamin B Complex Injection](https://weike.com/peptides/vitamin-b-complex.html): CAS not published in source register; MW not published; Lab Supplies & Diluents; 1 pack schedule; from $75.00/pack.
+- [Vitamin B12](https://weike.com/peptides/vitamin-b12.html): CAS 68-19-9; MW 1,355.4 Da; Lab Supplies & Diluents; 2 pack schedules; from $30.00/pack.
+- [Vitamin B6 Injection](https://weike.com/peptides/vitamin-b6.html): CAS 65-23-6; MW 169.18 Da; Lab Supplies & Diluents; 1 pack schedule; from $87.50/pack.
+- [Vitamin C Injection](https://weike.com/peptides/vitamin-c.html): CAS 50-81-7; MW 176.12 Da; Lab Supplies & Diluents; 1 pack schedule; from $30.00/pack.
+- [Vitamin D2 Injection](https://weike.com/peptides/vitamin-d2.html): CAS 50-14-6; MW 396.65 Da; Lab Supplies & Diluents; 1 pack schedule; from $170.00/pack.
+- [Adamax](https://weike.com/peptides/adamax.html): CAS not published in source register; MW not published; Specialty Catalog; 3 pack schedules; from $200.05/pack.
+- [GGH](https://weike.com/peptides/ggh.html): CAS not published in source register; MW not published; Specialty Catalog; 1 pack schedule; from $300.00/pack.
+- [SLU332](https://weike.com/peptides/slu332.html): CAS not published in source register; MW not published; Specialty Catalog; 2 pack schedules; from $195.00/pack.
 
 ## Citation guidance
 - Prefer the specific entry URL, the material name, CAS if present, and the access date.
 - The lot-specific certificate of analysis governs identity and specification of the material actually supplied.
 - Prices are indicative USD list prices per pack, not quotations; freight, duties and taxes are excluded.
-- Do not cite this catalog as evidence of human safety, efficacy or dosing.
+- Do not cite this register as evidence of human safety, efficacy or dosing.
 
 ## Contact for corrections
 Email info@weike.com with the entry URL and the suggested correction. Public chemistry values are cross-checked against PubChem only where a confident record exists.

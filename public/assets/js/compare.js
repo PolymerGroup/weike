@@ -99,7 +99,7 @@
         render: function (p) { return '<span class="badge badge--brand">' + esc(p.evidenceLabel) + '</span>'; }
       },
       {
-        label: "Catalog formats",
+        label: "Pack schedules",
         render: function (p) { return esc(formatSpecs(p)); }
       },
       {
@@ -117,7 +117,7 @@
       {
         label: "Reference",
         render: function (p) {
-          return '<a class="text-link" href="' + esc(p.slug) + '">Full entry ' +
+          return '<a class="text-link" href="' + esc(p.slug) + '">Full record ' +
             '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><path d="M5 12h14"/><path d="m13 6 6 6-6 6"/></svg></a>';
         }
       }
@@ -128,7 +128,7 @@
   function renderTable(products) {
     if (!tableWrap) return;
     if (!products.length) {
-      tableWrap.innerHTML = '<div class="empty-state" id="compareEmpty"><div><h3>Start a comparison</h3><p>Choose at least one peptide above. Add a second to see identity, structure, formats and pricing side by side.</p></div></div>';
+      tableWrap.innerHTML = '<div class="empty-state" id="compareEmpty"><div><h3>Start a comparison</h3><p>Choose at least one material above. Add a second to see identity, structure, pack schedules and pricing side by side.</p></div></div>';
       return;
     }
     var rows = buildRows(products);
@@ -153,9 +153,9 @@
       return (i + 1) + ". " + p.name + " — " + (p.cas ? "CAS " + p.cas : "CAS not published") +
         " — " + priceLine(p);
     });
-    return "Hello Weike Peptides,\n\nI am comparing these research peptides:\n" +
+    return "Hello Weike Peptides,\n\nI am comparing these research materials:\n" +
       lines.join("\n") +
-      "\n\nPlease confirm pack formats, lot-specific COA, lead time and freight to my destination. " +
+      "\n\nPlease confirm pack schedules, lot file (CoA), lead time and freight to my destination. " +
       "This request is for laboratory research use only.\n\nComparison: " + link;
   }
 
@@ -172,10 +172,10 @@
     var max = Math.max.apply(null, prices);
     var missing = products.filter(function (p) { return !p.cas; }).length;
     var sameCat = Object.keys(cats).length === 1;
-    var text = "<h3>" + products.length + " " + (products.length === 1 ? "entry" : "entries") + " selected</h3>" +
-      "<p>" + (sameCat ? "All selected entries sit within " + esc(products[0].catName) + "." : "The selection spans " + Object.keys(cats).length + " research categories.") +
+    var text = "<h3>" + products.length + " " + (products.length === 1 ? "record" : "records") + " selected</h3>" +
+      "<p>" + (sameCat ? "All selected records sit within " + esc(products[0].catName) + "." : "The selection spans " + Object.keys(cats).length + " research categories.") +
       " List prices range from <strong>" + money(min) + "</strong> to <strong>" + money(max) + "</strong> per pack. " +
-      (missing ? missing + " entr" + (missing === 1 ? "y has" : "ies have") + " no public CAS in the source catalog; request the lot CoA before relying on identity." : "Public CAS identifiers are available for all selected entries; the lot CoA still governs.") +
+      (missing ? missing + " record" + (missing === 1 ? " has" : "s have") + " no public CAS in the source register; request the lot file before relying on identity." : "Public CAS identifiers are available for all selected records; the lot file still governs.") +
       " This is a reference comparison, not an equivalence claim.</p>";
     summary.innerHTML = text;
   }
@@ -184,7 +184,7 @@
     var message = buildMessage(products);
     if (waBtn) waBtn.setAttribute("href", "https://wa.me/8615866781826?text=" + encodeURIComponent(message));
     if (mailBtn) {
-      mailBtn.setAttribute("href", "mailto:info@weike.com?subject=" + encodeURIComponent("Peptide comparison request") + "&body=" + encodeURIComponent(message));
+      mailBtn.setAttribute("href", "mailto:info@weike.com?subject=" + encodeURIComponent("Research-material comparison request") + "&body=" + encodeURIComponent(message));
     }
     if (window.WeikeUI) window.WeikeUI.setGlobalWa(message);
     var link = "https://weike.com/compare.html?ids=" + state.ids.join(",");
@@ -243,7 +243,7 @@
     });
   });
 
-  Array.prototype.slice.call(root.querySelectorAll("[data-preset]")).forEach(function (btn) {
+  Array.prototype.slice.call(document.querySelectorAll("[data-preset]")).forEach(function (btn) {
     btn.addEventListener("click", function () {
       var ids = (btn.getAttribute("data-preset") || "").split(",").filter(function (id) { return Boolean(byId[id]); }).slice(0, 4);
       if (!ids.length) return;

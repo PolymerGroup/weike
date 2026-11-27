@@ -63,8 +63,11 @@
   function setMenu(open) {
     if (!menuBtn || !mobileNav) return;
     mobileNav.classList.toggle("is-open", open);
+    if (open && header) {
+      mobileNav.style.top = Math.max(0, Math.round(header.getBoundingClientRect().bottom)) + "px";
+    }
     menuBtn.setAttribute("aria-expanded", open ? "true" : "false");
-    menuBtn.setAttribute("aria-label", open ? "Close menu" : "Open menu");
+    menuBtn.setAttribute("aria-label", open ? "Close index" : "Open index");
     doc.body.classList.toggle("nav-open", open);
   }
   if (menuBtn && mobileNav) {
@@ -233,7 +236,7 @@
         var any = qsa(".catalog-card", group).some(function (c) { return !c.hidden; });
         group.hidden = !any;
       });
-      if (countEl) countEl.textContent = "Showing " + visible + " of " + cards.length + " reference entries";
+      if (countEl) countEl.textContent = "Showing " + visible + " of " + cards.length + " records";
       if (emptyEl) emptyEl.hidden = visible !== 0;
       updateUrl();
     }
